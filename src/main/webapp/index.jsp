@@ -6,6 +6,5 @@
 
 <h2>Este cambio es para que se haga el despliegue mediante la ejecucion de un PIPELINE definido teniendo como disparador el aviso de GitHub por el cambio en el codigo. Paso final.</h2>
 <h3>Final</h3>
-<h3>Final</h3>
 </body>
 </html>
